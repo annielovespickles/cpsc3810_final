@@ -1,1 +1,2 @@
-# cpsc3810_final
+# CPSC 3810: Introduction to Machine Learning Final Project
+
